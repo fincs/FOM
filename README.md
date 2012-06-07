@@ -5,7 +5,7 @@ Introduction
 ------------
 
 FOM is a model for inter-operable FeOS OOP programming that allows for an easy way to produce a consistent interface to
-classes and functionality. It is loosely modelled on Microsoft's Component Object Model (COM) technology, but in a
+classes and functionality. It is loosely modeled on Microsoft's Component Object Model (COM) technology, but in a
 drastically simplified and eased way.
 
 Currently it's only possible to create and consume FOM components in C++, but in the future you will be able to access
