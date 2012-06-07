@@ -1,0 +1,11 @@
+build/
+build_ds/
+build_host/
+lib/
+/bin/fomutil
+*.exe
+*.elf
+*.dbg
+*.fx2
+*.a
+*~
